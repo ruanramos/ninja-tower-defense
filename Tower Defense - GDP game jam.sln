@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense - GDP game jam.Plugins", "Tower Defense - GDP game jam.Plugins.csproj", "{CA7A3E8C-50B5-A123-BDB3-6A109BDDA778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense - GDP game jam", "Tower Defense - GDP game jam.csproj", "{090D8F35-514F-BE25-D770-6F3FD639203C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense - GDP game jam.Editor.Plugins", "Tower Defense - GDP game jam.Editor.Plugins.csproj", "{D2B35D13-2FC3-5127-2C78-3D3C67F73605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense - GDP game jam.Editor", "Tower Defense - GDP game jam.Editor.csproj", "{EA926248-C9D9-AD7D-81E8-731358D43963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7A3E8C-50B5-A123-BDB3-6A109BDDA778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7A3E8C-50B5-A123-BDB3-6A109BDDA778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7A3E8C-50B5-A123-BDB3-6A109BDDA778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7A3E8C-50B5-A123-BDB3-6A109BDDA778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090D8F35-514F-BE25-D770-6F3FD639203C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090D8F35-514F-BE25-D770-6F3FD639203C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090D8F35-514F-BE25-D770-6F3FD639203C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090D8F35-514F-BE25-D770-6F3FD639203C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B35D13-2FC3-5127-2C78-3D3C67F73605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B35D13-2FC3-5127-2C78-3D3C67F73605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B35D13-2FC3-5127-2C78-3D3C67F73605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B35D13-2FC3-5127-2C78-3D3C67F73605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA926248-C9D9-AD7D-81E8-731358D43963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA926248-C9D9-AD7D-81E8-731358D43963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA926248-C9D9-AD7D-81E8-731358D43963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA926248-C9D9-AD7D-81E8-731358D43963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
